@@ -4,10 +4,10 @@ Triggers error if `arrayLength` is too short to have `numberRequested` adjacent
 items beginning at `startingIndex`.
 
 
-### Examples
+### Example
 ```
-
-errorIfArrayTooShortToMeetAdjacentItemsRequest();
+let arr = [1,2,3,4,5,6];
+errorIfArrayTooShortToMeetAdjacentItemsRequest(1, 6, arr.length);
 // Error: "the array does not have enough items to fulfill your request"
 ```
 
