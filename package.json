@@ -1,0 +1,29 @@
+{
+  "name": "error-if-array-too-short-to-meet-adjacent-items-request",
+  "version": "1.0.0",
+  "description": "Function triggers error if array is too short to return a requested number of adjacent items beginning at a particular index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/error-if-array-too-short-to-meet-adjacent-items-request.git"
+  },
+  "keywords": [
+    "array",
+    "index",
+    "validation",
+    "checking",
+    "error",
+    "message"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/error-if-array-too-short-to-meet-adjacent-items-request/issues"
+  },
+  "homepage": "https://github.com/writetome51/error-if-array-too-short-to-meet-adjacent-items-request#readme",
+  "dependencies": {
+  }
+}
