@@ -1,7 +1,8 @@
 ## errorIfArrayTooShortToMeetAdjacentItemsRequest(<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;startingIndex,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;numberRequested,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrayLength<br>): void
 
 Triggers error if `arrayLength` is too short to have `numberRequested` adjacent  
-items beginning at `startingIndex`.
+items beginning at `startingIndex`.  
+`startingIndex` can be negative or positive.
 
 
 ### Example

@@ -1,6 +1,6 @@
 {
   "name": "error-if-array-too-short-to-meet-adjacent-items-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function triggers error if array is too short to return a requested number of adjacent items beginning at a particular index",
   "main": "index.js",
   "scripts": {
