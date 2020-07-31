@@ -1,7 +1,8 @@
 {
   "name": "error-if-array-too-short-to-meet-adjacent-items-request",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Function triggers error if array is too short to return a requested number of adjacent items beginning at a particular index",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

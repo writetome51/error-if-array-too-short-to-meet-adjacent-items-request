@@ -16,14 +16,9 @@ errorIfArrayTooShortToMeetAdjacentItemsRequest(1, 6, arr.length);
 `npm install  error-if-array-too-short-to-meet-adjacent-items-request`
 
 ### Loading
-```
-// if using TypeScript:
+```js
 import { errorIfArrayTooShortToMeetAdjacentItemsRequest } 
     from 'error-if-array-too-short-to-meet-adjacent-items-request';
-// if using ES5 JavaScript:
-var errorIfArrayTooShortToMeetAdjacentItemsRequest = 
-    require('error-if-array-too-short-to-meet-adjacent-items-request')
-    .errorIfArrayTooShortToMeetAdjacentItemsRequest;
 ```
 
 ### License
